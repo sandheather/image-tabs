@@ -4,7 +4,6 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-
 img {
   width: 100%;
   position: absolute;
@@ -33,7 +32,7 @@ img {
   border-style: solid;
   border-width: 4px;
   position: relative;
- }
+}
 
 .tabs a:hover {
   background-color: #646464;
