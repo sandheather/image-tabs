@@ -35,3 +35,8 @@
    position: relative;
  }
 
+ .tabs a:hover {
+   background-color: #646464;
+   color: #fff;
+ }
+
