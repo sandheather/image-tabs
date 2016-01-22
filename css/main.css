@@ -6,44 +6,44 @@
 
 
 img {
-	width: 100%;
-	position: absolute;
+  width: 100%;
+  position: absolute;
 }
 
 .tabs {
-	text-align: center;
-	margin: 0;
-	padding-top: 55%;
-	list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding-top: 55%;
+  list-style-type: none;
 }
 
 .tabs > li {
-	display: inline-block;
+  display: inline-block;
 }
 
 .tabs a {
-	display: inline-block;
-	background-color: #fff;
-	color: #000;
-	text-decoration: none;
-	width: 15px;
-	height: 15px;
-	border-radius: 50%;
-	border-color: #646464;
-	border-style: solid;
-	border-width: 4px;
-	position: relative;
+  display: inline-block;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border-color: #646464;
+  border-style: solid;
+  border-width: 4px;
+  position: relative;
  }
 
 .tabs a:hover {
-	background-color: #646464;
-	color: #fff;
+  background-color: #646464;
+  color: #fff;
 }
 
 .panel {
-	display: none;
+  display: none;
 }
 
 .panel:target {
-	display: block;
+  display: block;
 }
